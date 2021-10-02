@@ -1,4 +1,6 @@
-from jularbal import greetings
+from bontia import greetings
+from jularbal import greeting
 
-print('Welcome to our collaborative program!')
+print("Welcome to our collaborative progam!")
 greetings()
+greeting()

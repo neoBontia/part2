@@ -1,2 +1,2 @@
-def greetings():
+def greeting():
     print('Greetings from Vincent!')
